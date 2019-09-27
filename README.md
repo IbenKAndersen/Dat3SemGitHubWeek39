@@ -20,6 +20,7 @@ CORS and SPA
 - Learning goals: Knowing what same-origin policy is and why we use it, learning about CORS. 
 
 # Friday 27/09/2019
+SP
 - Status: I tried to finish the JavaScript exercise from last week with RESTwithJAXRS. 
 - Location: The link to the project from last week is in the folder 04_friday_excercises
 - Learning goals: Demonstrating knowledge about javascript with its functionalities. 
