@@ -154,4 +154,4 @@ const numberOfVotes = votes.reduce((acc, el) => {
         acc[el] = 1;
     return acc;
 }, {});
-console.log(numberOfVotes);
+console.log(numberOfVotes);//works
